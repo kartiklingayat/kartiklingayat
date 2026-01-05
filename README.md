@@ -1,13 +1,14 @@
 # Hi 👋, I'm Kartik Lingayat ☁️
 
-🚀 Cloud Engineer | DevOps & Automation Enthusiast  
+🚀 Cloud Engineer | AWS Cloud Engineer | DevOps Engineer  
+🔧 Managed Cloud & Infrastructure Automation  
 🎓 B.Sc. (Hons.) Cloud Computing | MIT World Peace University  
 📍 Pune, India  
 
-I am a passionate **Cloud Engineer** with strong hands-on experience in  
+I am a **Cloud & DevOps Engineer** with hands-on experience in  
 **AWS, Microsoft Azure, and Google Cloud Platform**.  
-I enjoy building **scalable cloud infrastructure**, **automating deployments**,  
-and working on **real-world DevOps pipelines**.
+I specialize in **cloud infrastructure management, DevOps automation,  
+and managed cloud services**, with a strong focus on **scalability, security, and reliability**.
 
 ---
 
@@ -27,41 +28,38 @@ and working on **real-world DevOps pipelines**.
 
 ---
 
-## 🔧 What I Do
+## 👨‍💻 Professional Roles & Expertise
 
-- Design & deploy **cloud infrastructure** using Terraform  
-- Build **CI/CD pipelines** using Jenkins & Azure DevOps  
-- Containerize applications using **Docker**  
-- Deploy workloads on **EKS / AKS (basic)**  
-- Automate cloud operations using **Python & Shell scripting**  
-- Implement **IAM, networking, monitoring & security best practices**
+### ☁️ Cloud Engineer
+- Cloud infrastructure provisioning & management  
+- Compute, storage, networking & monitoring  
+- High availability & cost-optimized architectures  
 
----
+### 🟧 AWS Cloud Engineer
+- EC2, S3, IAM, VPC, Lambda, CloudWatch  
+- Secure IAM policies & role-based access  
+- Terraform-based AWS infrastructure  
 
-## 🚀 Featured Projects
+### ⚙️ DevOps Engineer
+- CI/CD pipelines using Jenkins & Azure DevOps  
+- Docker containerization & Kubernetes (EKS / AKS – basics)  
+- Git-based version control & automation  
 
-### 🔹 End-to-End DevOps CI/CD Pipeline on AWS
-- GitHub → Jenkins → Docker → AWS ECR → Amazon EKS
-- Infrastructure provisioned using Terraform
-- Kubernetes self-healing & rolling deployments
-
-📌 Repo: https://github.com/kartiklingayat/<repo-name>
-
----
-
-### 🔹 Cloud Network Automation (Python)
-- Automated cloud networking & validation tasks
-- Reduced manual configuration errors
-
-📌 Repo: https://github.com/kartiklingayat/cloud-network-automation
+### 🛠️ Managed Cloud Services
+- Cloud monitoring & performance optimization  
+- Backup, security & operational automation  
+- Troubleshooting Linux & cloud infrastructure issues  
 
 ---
 
-### 🔹 Azure Security & Threat Research Lab
-- Azure Security Center & Zero Trust principles
-- Threat detection & vulnerability assessment
+## 🔧 What I Work On
 
-📌 Repo: https://github.com/kartiklingayat/azure-advanced-threat-research-lab
+- Infrastructure as Code (Terraform)  
+- CI/CD pipeline automation  
+- Cloud security & IAM best practices  
+- Containerized application deployment  
+- Python & Shell scripting for automation  
+- Linux-based cloud environments  
 
 ---
 
