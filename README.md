@@ -1,65 +1,60 @@
-# Hi 👋, I'm Kartik Lingayat ☁️
+# Hi 👋, I'm Kartik Lingayat ☁️  
 
-🚀 Cloud Engineer | AWS Cloud Engineer | DevOps Engineer  
-🔧 Managed Cloud & Infrastructure Automation  
+🚀 Cloud Data Engineer | Cloud Engineer | AWS Cloud Engineer  
+📊 Building Scalable Data Pipelines on Cloud  
 🎓 B.Sc. (Hons.) Cloud Computing | MIT World Peace University  
 📍 Pune, India  
 
-I am a **Cloud & DevOps Engineer** with hands-on experience in  
-**AWS, Microsoft Azure, and Google Cloud Platform**.  
-I specialize in **cloud infrastructure management, DevOps automation,  
-and managed cloud services**, with a strong focus on **scalability, security, and reliability**.
+I am a Cloud & Data Engineering enthusiast with hands-on experience in  
+AWS, Microsoft Azure, and Google Cloud Platform.
+
+I specialize in:
+
+- ☁️ Cloud Infrastructure Engineering  
+- 📊 Data Pipeline Development (ETL / ELT)  
+- 🛠️ Automation & DevOps Practices  
+- 🔐 Secure and Scalable Cloud Architectures  
+
+My focus is on building reliable, scalable, and production-ready cloud data systems.
 
 ---
 
-## ☁️ Cloud Platforms
+## 📊 Cloud Data Engineering Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
-</p>
-
----
-
-## ⚙️ DevOps, Automation & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=terraform,jenkins,docker,kubernetes,git,linux,python,bash" />
-</p>
+- AWS Glue, Amazon S3, Amazon Redshift  
+- PySpark & Data Transformation  
+- SQL (Joins, CTEs, Window Functions)  
+- Data Modeling (Star Schema – Basics)  
+- Batch Processing Pipelines  
 
 ---
 
-## 👨‍💻 Professional Roles & Expertise
+## ☁️ Cloud Engineering
 
-### ☁️ Cloud Engineer
-- Cloud infrastructure provisioning & management  
-- Compute, storage, networking & monitoring  
-- High availability & cost-optimized architectures  
-
-### 🟧 AWS Cloud Engineer
 - EC2, S3, IAM, VPC, Lambda, CloudWatch  
-- Secure IAM policies & role-based access  
-- Terraform-based AWS infrastructure  
-
-### ⚙️ DevOps Engineer
-- CI/CD pipelines using Jenkins & Azure DevOps  
-- Docker containerization & Kubernetes (EKS / AKS – basics)  
-- Git-based version control & automation  
-
-### 🛠️ Managed Cloud Services
-- Cloud monitoring & performance optimization  
-- Backup, security & operational automation  
-- Troubleshooting Linux & cloud infrastructure issues  
+- Infrastructure as Code (Terraform – Basics)  
+- Secure IAM role-based architectures  
+- High availability & cost-optimized cloud setups  
 
 ---
 
-## 🔧 What I Work On
+## ⚙️ DevOps & Automation
 
-- Infrastructure as Code (Terraform)  
-- CI/CD pipeline automation  
-- Cloud security & IAM best practices  
-- Containerized application deployment  
-- Python & Shell scripting for automation  
-- Linux-based cloud environments  
+- CI/CD pipelines (Jenkins / Azure DevOps)  
+- Docker containerization  
+- Kubernetes (EKS / AKS – Basics)  
+- Git-based version control  
+- Python & Shell scripting automation  
+
+---
+
+## 🚀 Key Focus Areas
+
+- End-to-End ETL Pipeline Development  
+- Cloud Data Lake Architecture  
+- Infrastructure Automation  
+- IAM & Cloud Security Best Practices  
+- Linux-based Cloud Environments  
 
 ---
 
@@ -68,6 +63,8 @@ and managed cloud services**, with a strong focus on **scalability, security, an
 - AWS Cloud Practitioner  
 - Microsoft Azure Fundamentals  
 - Google Cloud Foundations  
+- Deep Learning Specialization  
+- Generative AI Fundamentals  
 - DevOps Essentials  
 - Python Programming  
 - Linux Fundamentals  
@@ -76,6 +73,6 @@ and managed cloud services**, with a strong focus on **scalability, security, an
 
 ## 📫 Connect With Me
 
-- 📧 Email: kartiklingayat019@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/kartik-lingayat-36a627286  
-- 🧑‍💻 GitHub: https://github.com/kartiklingayat
+📧 Email: kartiklingayat019@gmail.com  
+💼 LinkedIn: https://linkedin.com/in/kartik-lingayat-36a627286  
+🧑‍💻 GitHub: https://github.com/kartiklingayat
