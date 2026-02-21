@@ -1,14 +1,16 @@
 # Hi 👋, I'm Kartik Lingayat ☁️
 
-🚀 Cloud Engineer | AWS Cloud Engineer | DevOps Engineer  
-🔧 Managed Cloud & Infrastructure Automation  
+🚀 Cloud Data Engineer | Cloud Engineer | AWS Cloud Engineer  
+📊 Building Scalable ETL & Data Pipelines on Cloud  
 🎓 B.Sc. (Hons.) Cloud Computing | MIT World Peace University  
 📍 Pune, India  
 
-I am a **Cloud & DevOps Engineer** with hands-on experience in  
+I am a **Cloud & Data Engineering enthusiast** with hands-on experience in  
 **AWS, Microsoft Azure, and Google Cloud Platform**.  
-I specialize in **cloud infrastructure management, DevOps automation,  
-and managed cloud services**, with a strong focus on **scalability, security, and reliability**.
+
+I specialize in designing **end-to-end ETL pipelines, cloud data architectures,  
+and scalable infrastructure systems**, with a strong focus on  
+**performance, reliability, and security**.
 
 ---
 
@@ -28,6 +30,16 @@ and managed cloud services**, with a strong focus on **scalability, security, an
 
 ---
 
+## 📊 Cloud Data Engineering Stack
+
+- AWS Glue, Amazon S3, Amazon Redshift  
+- PySpark & Data Transformation  
+- SQL (Joins, CTEs, Window Functions)  
+- Data Modeling (Star Schema – Basics)  
+- Batch Processing & Data Lake Architecture  
+
+---
+
 ## ⚙️ DevOps, Automation & Tools
 
 <p align="left">
@@ -36,38 +48,34 @@ and managed cloud services**, with a strong focus on **scalability, security, an
 
 ---
 
-## 👨‍💻 Professional Roles & Expertise
+## 👨‍💻 Professional Expertise
+
+### 📊 Cloud Data Engineer
+- End-to-End ETL / ELT Pipeline Development  
+- S3-based Data Lake Architecture (Raw → Processed layers)  
+- Metadata Management using Glue Data Catalog  
+- Data Warehousing with Amazon Redshift  
 
 ### ☁️ Cloud Engineer
-- Cloud infrastructure provisioning & management  
-- Compute, storage, networking & monitoring  
-- High availability & cost-optimized architectures  
+- Infrastructure provisioning & monitoring  
+- IAM role-based secure architectures  
+- High availability & cost optimization  
 
-### 🟧 AWS Cloud Engineer
-- EC2, S3, IAM, VPC, Lambda, CloudWatch  
-- Secure IAM policies & role-based access  
-- Terraform-based AWS infrastructure  
-
-### ⚙️ DevOps Engineer
-- CI/CD pipelines using Jenkins & Azure DevOps  
-- Docker containerization & Kubernetes (EKS / AKS – basics)  
-- Git-based version control & automation  
-
-### 🛠️ Managed Cloud Services
-- Cloud monitoring & performance optimization  
-- Backup, security & operational automation  
-- Troubleshooting Linux & cloud infrastructure issues  
+### ⚙️ Automation & DevOps
+- CI/CD pipelines  
+- Containerized deployments  
+- Infrastructure as Code (Terraform – Basics)  
+- Python & Shell scripting automation  
 
 ---
 
-## 🔧 What I Work On
+## 🚀 Key Focus Areas
 
-- Infrastructure as Code (Terraform)  
-- CI/CD pipeline automation  
-- Cloud security & IAM best practices  
-- Containerized application deployment  
-- Python & Shell scripting for automation  
-- Linux-based cloud environments  
+- Scalable Data Pipeline Design  
+- Cloud Security & IAM Best Practices  
+- Performance Optimization  
+- Reliable Batch Processing Systems  
+- Linux-based Cloud Environments  
 
 ---
 
@@ -76,6 +84,8 @@ and managed cloud services**, with a strong focus on **scalability, security, an
 - AWS Cloud Practitioner  
 - Microsoft Azure Fundamentals  
 - Google Cloud Foundations  
+- Deep Learning Specialization  
+- Generative AI Fundamentals  
 - DevOps Essentials  
 - Python Programming  
 - Linux Fundamentals  
@@ -84,5 +94,5 @@ and managed cloud services**, with a strong focus on **scalability, security, an
 
 ## 📫 Connect With Me
 
-- 📧 Email: kartiklingayat019@gmail.com  
-- 🧑‍💻 GitHub: https://github.com/kartiklingayat
+📧 Email: kartiklingayat019@gmail.com  
+🧑‍💻 GitHub: https://github.com/kartiklingayat
